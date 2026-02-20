@@ -1,0 +1,18 @@
+name: sensor-core
+version: 0.1.0.0
+dependencies:
+  - base
+  - aeson
+  - text
+  - bytestring
+  - containers
+executables:
+  sensor-core:
+    main: Main.hs
+    source-dirs: app
+library:
+  source-dirs: src
+
+
+
+

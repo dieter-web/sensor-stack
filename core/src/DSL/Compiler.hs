@@ -1,0 +1,2 @@
+compileRule :: Rule -> CompileRule
+

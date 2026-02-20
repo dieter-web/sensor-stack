@@ -1,0 +1,16 @@
+# Node.js
+runtime/node_modules/
+runtime/.env
+
+# Haskell (Stack)
+core/.stack-work/
+core/dist/
+core/dist-newstyle/
+
+# Lua
+*.luac
+
+# OS
+.DS_Store
+Thumbs.db
+
